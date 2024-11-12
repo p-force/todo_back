@@ -1,0 +1,22 @@
+DB_NAME=
+DB_USER=
+DB_PASSWORD=
+DB_HOST=127.0.0.1
+DB_DIALECT=postgres
+API_URL="http://localhost:3000"
+# CLIENT_URL="http://localhost:3001"
+
+
+MAIL_HOST=
+MAIL_PORT=
+MAIL_USER=
+MAIL_PASSWORD=
+MAIL_SERVICE=
+MAIL_TO=
+
+// Optional
+PORT=
+
+//JWT secrets
+ACCESS_TOKEN_SECRET=youraccesstokensecret
+REFRESH_TOKEN_SECRET=yourrefreshtokensecret
